@@ -168,3 +168,32 @@ Response:
 ##  Notes  
 - **Authentication required** for creating, updating, or deleting posts.  
 - Tokens must be included in headers for protected routes.  
+
+## PROJECT-DEMO ##
+
+## REGISTER ##
+<img width="1393" height="676" alt="2" src="https://github.com/user-attachments/assets/69b3c1d6-3251-4dbc-9899-69fe6e630fc5" />
+
+## LOGIN ##
+<img width="1404" height="663" alt="3" src="https://github.com/user-attachments/assets/fec5c7e1-3647-4012-ba93-bbfe25814ad7" />
+
+## CREATE 1 POST ##
+<img width="1395" height="747" alt="4" src="https://github.com/user-attachments/assets/59e3666e-e00c-4c5a-a50e-12fa8132afaf" />
+
+## CREATE 2 POST ##
+<img width="1397" height="745" alt="5" src="https://github.com/user-attachments/assets/6ab82bf7-d86c-4b7c-a5a5-c514470a505e" />
+
+## GET ALL THE POSTS ##
+<img width="1397" height="877" alt="6" src="https://github.com/user-attachments/assets/6bced76b-0c43-4512-a0a5-5620a495b74e" />
+
+## GET THE POST BY ITS ID ##
+<img width="1409" height="749" alt="7" src="https://github.com/user-attachments/assets/fccba27f-5b61-4bc0-a880-8a3ca2bd86a7" />
+
+## UPDATE THE POSTS ##
+<img width="1398" height="768" alt="8" src="https://github.com/user-attachments/assets/5b2f98ef-8284-464c-8200-e508ca28e280" />
+
+## DELETE THE POST ##
+<img width="810" height="443" alt="9" src="https://github.com/user-attachments/assets/23cf1555-bcd8-4bfb-b941-6d582de64b84" />
+
+## RESULT OF DELETED POST ##
+<img width="1398" height="467" alt="10" src="https://github.com/user-attachments/assets/69257f54-be71-4e34-9f10-d21a621dd8fe" />
